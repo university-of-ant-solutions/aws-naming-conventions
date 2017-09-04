@@ -1,6 +1,6 @@
-# AWS naming conventions
+# Naming conventions
 
-This repository contains **Dockerfile** of [Nginx](http://nginx.org/) 
+My personal project to collect some naming conventions rules
 
 ## Getting Started
 
@@ -73,9 +73,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Hoang Nam** - *Initial work* - [particle4dev.com](http://www.particle4dev.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/your/project/CONTRIBUTORS) who participated in this project.
 
 ## License
 
